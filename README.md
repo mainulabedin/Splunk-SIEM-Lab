@@ -2,9 +2,11 @@
 Splunk Enterprise SIEM Lab using Sysmon, Splunk Universal Forwarder and Atomic Red Team
 
 1. Introduction
+
 This lab demonstrates the simulation and detection of various cyber attack techniques using Splunk Enterprise, Sysmon, Atomic Red Team and Splunk Universal Forwarder. The objective of this lab is to emulate real-world attacker behavior, collect security logs through Sysmon, forward the logs to Splunk Enterprise and create detection queries to identify malicious activities.
 
 3. Objectives
+
 The objectives of this lab were:
 •	Install and configure Splunk Enterprise.
 •	Configure Splunk Universal Forwarder.
