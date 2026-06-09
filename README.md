@@ -18,9 +18,9 @@ The objectives of this lab were:
 # 3.1 Lab Architecture
 
 The lab consisted of two virtual machines:
-Machine	Operating System	Purpose
-Splunk Server	Ubuntu Server (v20.04.6)	(SIEM) Log Collection & Analysis
-Target Machine	Windows Server 2019	Attack Simulation
+<br>
+<img width="758" height="147" alt="image" src="https://github.com/user-attachments/assets/50b9b473-5468-4c3e-acd9-ce2f87e65995" />
+
 <img width="753" height="442" alt="image" src="https://github.com/user-attachments/assets/0ded74e5-9c12-4c76-b5ca-9c60814e244b" />
 
 # 3.2 Ubuntu Server Configuration:
